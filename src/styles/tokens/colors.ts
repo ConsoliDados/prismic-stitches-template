@@ -1,0 +1,40 @@
+export const colors = {
+  white: '#fff',
+  black: '#000',
+
+  gray1: '#e5e6e8',
+  gray2: '#ccced1',
+  gray3: '#9c9ea5',
+  gray4: '#6e717a',
+  gray5: '#434853',
+  gray6: '#1b222e',
+  gray7: '#030d1c',
+  gray8: '#010a1a',
+  gray9: '#000719',
+  gray10: '#000417',
+  gray11: '#000316',
+  gray12: '#000216',
+
+  primary: '#2356a7',
+  primary_analogous: '#2523a7',
+  secondary: '#231F20',
+
+  primary1: '#dde1f1',
+  primary2: '#bcc3e2',
+  primary3: '#9aa6d3',
+  primary4: '#778ac5',
+  primary5: '#536fb6',
+  primary6: '#2356a7',
+  primary7: '#254b8c',
+  primary8: '#213e74',
+  primary9: '#1e325c',
+  primary10: '#1a2745',
+  primary11: '#151c30',
+  primary12: '#0f111b',
+
+  info: '#238ba7',
+  danger: '#a72356',
+  success: '#56a723',
+  warning: '#a77423',
+
+}

@@ -1,8 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with `Stitches` and `Prismic CMS`.
+
+## Disclaimer
+
+### Primic
+
+This template uses an non-ofical prismic integration with next.js app dir. If at this time Prismic team already has implemented app dir integration, fallow there documentation to correct setup prismic integration, or stay tunned for new updates on this repository.
+
+### Stitches
+
+Stitches styles are steel run on client side, this style library doesn't support server side styles, so at this time if stitches team already has support for server side styles, fallow thera documentation, or change to module css, or most recommended tailwind. Stay tunned for styles solutions updates on this repository.
 
 ## Getting Started
 
-First, run the development server:
+First, clone this repository or use it as new repository template.
+
+Second, install dependencies:
+
+```bash
+npm i
+# or
+yarn
+# or
+pnpm i
+```
+
+Then, run the development server:
 
 ```bash
 npm run dev
